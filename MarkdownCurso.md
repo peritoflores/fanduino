@@ -1,6 +1,4 @@
-![alt](C:\Users\gdari\OneDrive\Imágenes\133791383585569470.jpg)
-
-
+![alt](C:\Users\gdari\OneDrive\code\fanduino\133791383585569470.jpg)
 
 *cursiva*
 
